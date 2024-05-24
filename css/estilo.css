@@ -279,7 +279,7 @@ h1{
 
 @keyframes efeito {
   0%{
-    transform:scale(1)
+    transform:scale(1);
   }
   50%{
     
@@ -287,7 +287,7 @@ h1{
   }
   100%{
     transform: scale(1.1);
-    filter:drop-shadow(var(--bg-color3)0 0 2rem)
+    filter:drop-shadow(var(--bg-color3)0 0 2rem);
   }
   
 }
@@ -429,7 +429,7 @@ h1{
 
 
   h1{
-    color:var(--bg-color)
+    color:var(--bg-color);
   }
 
   .container{
@@ -443,7 +443,7 @@ h1{
   }
   footer{
     background: var(--bg-color);
-    color:var(--font-color)
+    color:var(--font-color);
   }
     
   #hamburg{
