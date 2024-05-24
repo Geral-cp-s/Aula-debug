@@ -1,7 +1,7 @@
 
 //efeito login
-const formOpenBtn = document.querySelector("#abrir-form"),
-home = document.querySelector(".container");
+const formOpenBtn = document.querySelector("abrir-form"),
+home = document.querySelector("container");
     //faz o pop up aparecer quando aperta em login
 formOpenBtn.addEventListener('click', () => home.classList.add("show"))
     //faz o pop up sumir quando aperta fora
